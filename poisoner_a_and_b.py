@@ -1,5 +1,7 @@
 #!/usr/bin/env/python3
 
+#automatically poison A and B arp cache
+
 from scapy.all import *
 import time
 

@@ -9,4 +9,4 @@ B = Another Host in network
 
 ![image](https://user-images.githubusercontent.com/76045226/199382529-7146b904-47ac-4450-a1ec-026d25de0d9c.png)
 
-Please see ARP Lab Solutions.pdf for a writeup for this lab and usage of code in different scenarios
+Please see ARP Lab SeedLabs Solutions.pdf for a writeup for this lab and usage of code in different scenarios
